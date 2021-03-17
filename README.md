@@ -13,4 +13,4 @@
 * https://github.com/Afacanc38/Pardus-ISO-Duzenleme-ve-Olusturma
 
 #### İstatisliklerim
-[![Alperen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afacanc38&count_private=true&show_icons=true&theme=dark)](https://github.com/Afacanc38/Afacanc38)
+[![Alperen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afacanc38&count_private=true&show_icons=true&theme=dark&custom_title=İstatislikler)](https://github.com/Afacanc38/Afacanc38)
