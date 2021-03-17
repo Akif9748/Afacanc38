@@ -12,5 +12,5 @@
 * https://github.com/Afacanc38/firefox-script
 * https://github.com/Afacanc38/Pardus-ISO-Duzenleme-ve-Olusturma
 
-#### İstatisliklerim
-[![Alperen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afacanc38&count_private=true&show_icons=true&theme=dark&custom_title=İstatislikler)](https://github.com/Afacanc38/Afacanc38)
+* [![Alperen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afacanc38&count_private=true&show_icons=true&theme=dark&custom_title=İstatislikler)](https://github.com/Afacanc38/Afacanc38)
+* [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afacanc38&layout=compact&custom_title=Diller&theme=dark)](https://github.com/Afacanc38/Afacanc38)
