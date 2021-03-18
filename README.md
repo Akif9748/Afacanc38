@@ -7,7 +7,7 @@
 * https://github.com/Afacanc38/chromeos-scripts
 * https://github.com/Afacanc38/merhaba-dunya
 * https://github.com/Afacanc38/video-kaynak-dosyalari
-* https://github.com/Afacanc38/flutter-yukleyici
+* https://github.com/Afacanc38/flutter-installer
 
 #### Katkıda bulunduğum projeler:
 * https://github.com/Afacanc38/firefox-script
