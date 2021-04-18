@@ -1,7 +1,3 @@
-### İlk gösterim
-Bu ilk gösterime siz de katılın!<br>
-https://youtu.be/xyQwIkCe5Zc
-***
 ### Selamlar! ✋
 İşte yaptığım projelerden birkaçı...
 
