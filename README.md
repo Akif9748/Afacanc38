@@ -10,6 +10,7 @@
 * https://github.com/Afacanc38/flutter-installer
 * https://github.com/Afacanc38/yapaket
 * https://github.com/Afacanc38/xenforo-green
+* https://github.com/Afacanc38/html-baslik-sablonu
 
 #### Katkıda bulunduğum projeler:
 * https://github.com/Afacanc38/firefox-script
