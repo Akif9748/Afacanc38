@@ -9,7 +9,7 @@
 * https://github.com/Afacanc38/video-kaynak-dosyalari
 * https://github.com/Afacanc38/flutter-installer
 * https://github.com/Afacanc38/yapaket
-* https://github.com/Afacanc38/xenforo-green **[YENİ!]**
+* https://github.com/Afacanc38/xenforo-green
 
 #### Katkıda bulunduğum projeler:
 * https://github.com/Afacanc38/firefox-script
