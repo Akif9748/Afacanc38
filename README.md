@@ -11,6 +11,7 @@
 * https://github.com/Afacanc38/myartwork
 * https://github.com/Afacanc38/xenforo-green
 * https://github.com/Afacanc38/html-baslik-sablonu
+* https://github.com/Afacanc38/fedora-debloat
 
 #### Katkıda bulunduğum projeler:
 * https://github.com/Afacanc38/firefox-script
