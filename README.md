@@ -1,4 +1,4 @@
-![alperenarkaplan2](https://user-images.githubusercontent.com/66299502/120064762-9bf30100-c076-11eb-8263-4852f90182ba.png)
+![alperenarkaplan2](https://user-images.githubusercontent.com/66299502/120064805-d492da80-c076-11eb-96e6-00c317119067.png)
 
 İşte başlattığım projelerden birkaçı...
 
