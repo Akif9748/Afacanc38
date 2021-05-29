@@ -1,6 +1,7 @@
-![alperenarkaplan2](https://user-images.githubusercontent.com/66299502/120064858-0a37c380-c077-11eb-80fb-6d04107deacd.png)
-
-İşte başlattığım projelerden birkaçı...
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/66299502/120064858-0a37c380-c077-11eb-80fb-6d04107deacd.png"/><br>
+</h1>
+İşte başlattığım projelerden birkaçı...<br><br>
 
 * https://github.com/Afacanc38/yapboz-kisalt
 * https://github.com/Afacanc38/ozgurlukicin-topluluk
