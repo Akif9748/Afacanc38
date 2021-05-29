@@ -12,6 +12,7 @@
 * https://github.com/Afacanc38/xenforo-green
 * https://github.com/Afacanc38/html-baslik-sablonu
 * https://github.com/Afacanc38/fedora-debloat
+* https://github.com/Afacanc38/hos-geldiniz-gtk
 
 #### Katkıda bulunduğum projeler:
 * https://github.com/Afacanc38/firefox-script
