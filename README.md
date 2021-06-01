@@ -4,7 +4,6 @@
 İşte başlattığım projelerden birkaçı...<br><br>
 
 * https://github.com/Afacanc38/yapboz-kisalt
-* https://github.com/Afacanc38/ozgurlukicin-topluluk
 * https://github.com/Afacanc38/python-color
 * https://github.com/Afacanc38/chromeos-scripts
 * https://github.com/Afacanc38/merhaba-dunya
