@@ -14,7 +14,7 @@
 * https://github.com/Afacanc38/html-baslik-sablonu
 * https://github.com/Afacanc38/fedora-debloat
 * https://github.com/Afacanc38/hos-geldiniz-gtk
-* https://github.com/Afacanc38/libreshell **[Yeni]**
+* https://github.com/Afacanc38/libreshell
 
 #### Katkıda bulunduğum projeler:
 * https://github.com/Afacanc38/firefox-script
