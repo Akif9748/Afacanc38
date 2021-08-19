@@ -14,6 +14,7 @@
 * https://github.com/Afacanc38/fedora-debloat
 * https://github.com/Afacanc38/hos-geldiniz-gtk
 * https://github.com/Afacanc38/libreshell
+* https://github.com/Afacanc38/dotfiles
 
 #### Katkıda bulunduğum projeler:
 * https://github.com/Afacanc38/firefox-script
