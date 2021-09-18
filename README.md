@@ -15,6 +15,7 @@
 * https://github.com/Afacanc38/hos-geldiniz-gtk
 * https://github.com/Afacanc38/libreshell
 * https://github.com/Afacanc38/dotfiles
+* https://github.com/Afacanc38/gtk-examples-python
 
 #### Katkıda bulunduğum projeler:
 * https://github.com/Afacanc38/firefox-script
