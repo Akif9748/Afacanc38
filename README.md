@@ -24,6 +24,6 @@
 * https://github.com/Afacanc38/ozellestirilmis-iso-olusturma
 * https://github.com/Afacanc38/FlarumSetup
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afacanc38&layout=compact&custom_title=Diller&theme=dark)](https://github.com/Afacanc38/Afacanc38)
+[![Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Afacanc38&layout=compact&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&border_color=30363d&locale=tr)](https://github.com/Afacanc38/Afacanc38)
 
 Matrix: https://matrix.to/#/@afacanc38:matrix.org
