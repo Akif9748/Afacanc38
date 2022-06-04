@@ -27,5 +27,5 @@
 Matrix: https://matrix.to/#/@afacanc38:matrix.org
 <details>
 <summary>Bu arada</summary>
- ![bitmap](https://user-images.githubusercontent.com/66299502/172022049-b7d2cc34-3b0e-4f38-afc4-44bb7b6606c6.png)
+ <img src="https://user-images.githubusercontent.com/66299502/172022049-b7d2cc34-3b0e-4f38-afc4-44bb7b6606c6.png"></img>
 </details>
